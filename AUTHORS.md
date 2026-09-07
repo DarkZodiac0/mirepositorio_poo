@@ -1,7 +1,5 @@
-Los integrantes somos:
+Equipo Slendytubbies aztecas:
 
 Axel Arturo Pérez Montero zs23013994  @DarkZodiac0
 
 Bremont Limón Isaac Gabriel zs23013923 @Isaaclimon14
-
-y ya
