@@ -354,6 +354,24 @@ paket-files/
 **/__pycache__/
 *.pyc
 
+# Python/Jupyter files
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Compiled binaries and build artifacts
+*.dll
+*.exe
+*.so
+*.dylib
+*.bin
+*.class
+
 # Cake - Uncomment if you are using it
 #tools/**
 #!tools/packages.config
