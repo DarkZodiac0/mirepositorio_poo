@@ -12,3 +12,25 @@ sensor_luz = NodoSensor("LUZ-01", "192.168.1.11", "Sala de servidores",
 sensores = [sensor_temp, sensor_luz]
 actuadores = [actuador_ventilador]
 red_iot = [sensor_temp, actuador_ventilador, sensor_luz]  # lista mixta
+
+# Bucles polimórficos
+def conectar_red() -> None:
+    for dispositivo in red_iot:
+        dispositivo.conectar()
+
+
+def telemetria_red() -> None:
+    for dispositivo in red_iot:
+        dispositivo.enviar_telemetria()
+
+
+# --- Utilidades de la HMI ---
+def pedir_numero(mensaje: str, defecto=None) -> float:
+    texto = input(mensaje).strip()
+    if texto == "" and defecto is not None:
+        return defecto
+    try:
+        return float(texto)
+    except ValueError:
+        raise ValueError("ingrese un número válido") from None
+
