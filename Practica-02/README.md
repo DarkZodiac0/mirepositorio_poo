@@ -22,4 +22,6 @@ Una vez teniendo en cuenta la situcacion de las clases se empezara a programar l
 
 |***Código***| ***Funcion***| ***Avance***|
 |:---|:---:|---:| 
-|Main | Este código Main se hara cargo de juntar ambas herencia para poder crear la simulacion| Trabajando 🕛|
+|Main | Este código Main se hara cargo de juntar ambas herencia para poder crear la simulación| Finalizado ✅|
+|nodo_hijos| Este codigo establece las herencias de nuestros sensores simulados| Aun en espera ❌ |
+|nodo_iot  | Este codigo establece los nodos de iot que se van a simular| ni siquiera lo he empezado 💀|
