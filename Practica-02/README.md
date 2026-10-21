@@ -12,7 +12,7 @@ Pérez Montero Axel Arturo | @DarkZodiac0|
 |Tarea | Estado  |
 |:---| :---:|
 |Diagrama UML| Completada |
-|Código de python | Ya casi | 
+|Código de python | Completada  | 
 |Reporte PDF| En proceso| 
 |Repositorio en Github| Completada | 
 
@@ -34,11 +34,16 @@ Una vez teniendo en cuenta la situcacion de las clases se empezara a programar l
 |***Código***| ***Funcion***| ***Avance***|
 |:---|:---:|---:| 
 |Main | Este código Main crea los dispositivos y ejecuta la simulacion| Finalizado ✅|
-|nodo_hijos| Este codigo establece los nodos hijos (sensor y actuador) que heredan de la clase padre. | ya llegamos a esta parte  finalmente |
+|nodo_hijos| Este código establece los nodos hijos (sensor y actuador) que heredan de la clase padre. | Finalizado ✅ (wow fue rápido)  |
 |nodo_iot  | Este código establece la herencia padre que compartirán con los nodos hijos | Finalizado (Tarde menos de lo esperado)✅|
 
 
 * ### ***Parte 3:aplicacion de los códigos directo en la consola***
-En esta parte al completar los codigos, vamos aplicar esto en la consola para obtener algún resultado 
+En esta parte al completar los códigos, vamos aplicar esto en la consola. Lo que se espera ver en esta practica es observar el HMI que mostrara datos aleatorios de varios sensores y actuadores y podamos observar estos cambios.
+<img width="664" height="1157" alt="image" src="https://github.com/user-attachments/assets/864147fe-1a97-4284-911a-b0e45607b9dd" />
+
+
+En esta imagen se muestra que el HMI responde bastante bien a los cambios aleatorios que se le puede asignar, como se ve este establece los sensores hasta cierto punto de medición 
+
 
 
