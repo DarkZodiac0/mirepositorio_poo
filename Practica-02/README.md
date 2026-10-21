@@ -6,7 +6,7 @@
 Pérez Montero Axel Arturo | @DarkZodiac0|
   Bremont Limon Isaac Gabriel | @Isaaclimon 14|
 
-
+---
 
 ### ***Checklist***
 |Tarea | Estado  |
@@ -16,7 +16,7 @@ Pérez Montero Axel Arturo | @DarkZodiac0|
 |Reporte PDF| En proceso| 
 |Repositorio en Github| Completada | 
 
-
+---
 
 ### ***Resumen de avance***
 
