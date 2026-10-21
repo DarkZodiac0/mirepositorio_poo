@@ -11,10 +11,10 @@ Pérez Montero Axel Arturo | @DarkZodiac0|
 ### ***Checklist***
 |Tarea | Estado  |
 |:---| :---:|
-|Diagrama UML| Completada |
-|Código de python | Completada  | 
-|Reporte PDF| En proceso| 
-|Repositorio en Github| Completada | 
+|Diagrama UML| Completada ✅|
+|Código de python | Completada  ✅| 
+|Reporte PDF| Completada✅| 
+|Repositorio en Github| Completada ✅| 
 
 ---
 
