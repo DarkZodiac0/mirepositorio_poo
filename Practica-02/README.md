@@ -1,4 +1,4 @@
-### ***Avance de practica 2*** 
+### ***Bitácora de  practica 2*** 
 
 **Encargados:** 
 |Integrantes | Nombre de usuario  |
