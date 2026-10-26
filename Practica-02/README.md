@@ -45,5 +45,8 @@ En esta parte al completar los códigos, vamos aplicar esto en la consola. Lo qu
 
 En esta imagen se muestra que el HMI responde bastante bien a los cambios aleatorios que se le puede asignar, como se ve este establece los sensores hasta cierto punto de medición 
 
+### ***Conclusion***
+Como conclusión de esta practica, el funcionamiento de la practica fue el deseado ya que aplica los valores Aleatorios que indican y establece nuestras variables de manera correcta. Con esto podemos crear interfaces HMI que son capaces de registrar datos y manipular sus rangos validos de funcionamiento con claridad, también se puede agregar un Dashboard para complementar esta información.
+
 
 
