@@ -4,7 +4,7 @@
 |Integrantes | Nombre de usuario  |
 |:----  |:---:| 
 Pérez Montero Axel Arturo | @DarkZodiac0|
-  Bremont Limon Isaac Gabriel | @Isaaclimon 14|
+  Bremont Limon Isaac Gabriel | @Isaaclimon14|
 
 ---
 
